@@ -1,0 +1,62 @@
+PurchaseService에 create안에
+String path = "D:\\KREAM(secend)\\image\\"; 이부분에 뒷부분
+\lib\product\ 이걸로 끝나게 망드렁주세욥
+ㅇㅖ시
+"C:\\Users\\user\\Desktop\\KREAM(3) (2)\\src\\main\\resources\\static\\lib\\product\\"
+//그래야 관리자 상품 상세페이지 볼때 이미지 출력할수잇서
+
+
+------------------------------------------------------------
+qna 테이블이랑 시퀀스랑 인서트
+------------------------------------------------------------
+
+CREATE SEQUENCE seq_customer_qna INCREMENT BY 1 START WITH 1;
+CREATE SEQUENCE seq_product_qna INCREMENT BY 1 START WITH 1;
+
+create table customer_qna(
+    id number(7) not null primary key,
+    status varchar2(20) not null,
+    type varchar2(20) not null,
+    customer_id number(7) not null,
+    title varchar2(100) not null,
+    content varchar2(1000) not null,
+    answer varchar2(20),
+    acomment varchar2(200),
+    regdate date default sysdate,
+    constraint fk_custo_qna foreign key(customer_id) references customer(id)
+);
+
+create table product_qna(
+    id number(7) not null primary key,
+    status varchar2(20) not null,
+    type varchar2(20) not null,
+    customer_id number(7) not null,
+    title varchar2(100) not null,
+    content varchar2(1000) not null,
+    answer varchar2(20),
+    acomment varchar2(200),
+    regdate date default sysdate,
+    constraint fk_produ_qna foreign key(customer_id) references customer(id)
+);
+
+insert into customer_qna(id, status, type, customer_id, title, content) 
+values(seq_customer_qna.NEXTVAL, '미처리', '이용문의', 1, '오라클 힘들어요','나만 힘드로?');
+insert into customer_qna(id, status, type, customer_id, title, content) 
+values(seq_customer_qna.NEXTVAL, '미처리', '계정문의', 2, '피카츄','조깦츄라이츄파이리꼽욱이');
+insert into customer_qna(id, status, type, customer_id, title, content) 
+values(seq_customer_qna.NEXTVAL, '미처리', '계정문의', 3, '포켓몬유나이트','하고시퍼이이잉ㅇ');
+insert into customer_qna(id, status, type, customer_id, title, content) 
+values(seq_customer_qna.NEXTVAL, '미처리', '입찰문의', 4, '에이쏍 내 통잔잔고 반쪼가리','뿌애애ㅐ애앵');
+insert into customer_qna(id, status, type, customer_id, title, content) 
+values(seq_customer_qna.NEXTVAL, '미처리', '이용문의', 5, '뿌애애ㅐ애앵 힘들어요','나만 뿌애애ㅐ애앵?');
+
+insert into product_qna(id, status, type, customer_id, title, content) 
+values(seq_product_qna.NEXTVAL, '미처리', '구매문의', 1, '오라클 힘들어요','나만 힘드로?');
+insert into product_qna(id, status, type, customer_id, title, content) 
+values(seq_product_qna.NEXTVAL, '미처리', '구매문의', 2, '피카츄','조깦츄라이츄파이리꼽욱이');
+insert into product_qna(id, status, type, customer_id, title, content) 
+values(seq_product_qna.NEXTVAL, '미처리', '판매문의', 3, '포켓몬유나이트','하고시퍼이이잉ㅇ');
+insert into product_qna(id, status, type, customer_id, title, content) 
+values(seq_product_qna.NEXTVAL, '미처리', '판매문의', 4, '에이쏍 내 통잔잔고 반쪼가리','뿌애애ㅐ애앵');
+insert into product_qna(id, status, type, customer_id, title, content) 
+values(seq_product_qna.NEXTVAL, '미처리', '일반문의', 5, '뿌애애ㅐ애앵 힘들어요','나만 뿌애애ㅐ애앵?');

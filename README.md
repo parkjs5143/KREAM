@@ -32,37 +32,37 @@ http://www.kream.co.kr
 ### 프로젝트 기술서
 https://brick-booth-68a.notion.site/Kream-b4099274b5174bc5ab6a261a6d6a615f
 
-### 구동 화면
-###### 시연영상
+# 구동 화면
+### 시연영상
 
-###### 로그인 페이지
+### 로그인 페이지
 ![login](https://user-images.githubusercontent.com/75155418/145078943-eb6f41cf-d1a5-4f07-9a1d-8f1ef8684c07.png)
 
-###### 메인 페이지1
+### 메인 페이지1
 ![main1](https://user-images.githubusercontent.com/75155418/145079118-ca5553e9-621a-447e-a1d2-0d5acb933267.png)
 
-###### 메인 페이지2
+### 메인 페이지2
 ![main2](https://user-images.githubusercontent.com/75155418/145079033-48fc475b-64b5-43a1-b920-e4742a3dd2ef.png)
 
-###### 마이페이지1
+### 마이페이지1
 ![mypage](https://user-images.githubusercontent.com/75155418/145079167-71ddba85-5254-4e33-a3d8-0b6cfbf80dc5.png)
 
-###### 마이페이지2
+### 마이페이지2
 ![mypage_edit](https://user-images.githubusercontent.com/75155418/145079198-9de6ddae-dff8-49be-97ad-01a0fd2f0a36.png)
 
-###### shop 카테고리, 검색 페이지
+### shop 카테고리, 검색 페이지
 ![shop](https://user-images.githubusercontent.com/75155418/145079314-1e016004-c37f-45cd-bcf4-9ead8358021d.png)
 
-###### shop 상품 디테일 페이지
+### shop 상품 디테일 페이지
 ![shop1](https://user-images.githubusercontent.com/75155418/145079356-7b963b39-8027-46e2-a73a-0554681b3298.png)
 
-###### shop 구매 페이지
+### shop 구매 페이지
 ![shop2](https://user-images.githubusercontent.com/75155418/145079484-41727d2c-eefb-45e9-92cc-942041f79a20.png)
 
-###### style 인기게시물
+### style 인기게시물
 ![style](https://user-images.githubusercontent.com/75155418/145079568-ed3ce061-8321-43d6-9446-62d8c512f7e9.png)
 
-###### style 게시물 디테일
+### style 게시물 디테일
 <img width="1280" alt="style_info2" src="https://user-images.githubusercontent.com/75155418/145079613-af79ff15-bfed-4a91-beee-dbee841e7475.png">
 <img width="1280" alt="style_info1" src="https://user-images.githubusercontent.com/75155418/145079726-e52654b0-585f-4527-a1cc-1f68b9155d61.png">
 

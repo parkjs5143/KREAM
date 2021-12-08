@@ -34,6 +34,7 @@ https://brick-booth-68a.notion.site/Kream-b4099274b5174bc5ab6a261a6d6a615f
 
 # 구동 화면
 ### 시연영상
+https://youtu.be/quJpnHbCUFU
 
 ### 로그인 페이지
 ![login](https://user-images.githubusercontent.com/75155418/145078943-eb6f41cf-d1a5-4f07-9a1d-8f1ef8684c07.png)

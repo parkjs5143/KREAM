@@ -10,7 +10,8 @@ http://www.kream.co.kr
 5. 사용 언어 : Java(Spring-boot v2.5), HTML5, CSS3, Javascript(ES6)
 6. 사용 기술 : axios, Ajax, Open API(다음카카오), SMTP(Mail Service), Cool SMS, Gradle, Spring Security5, JPA/Hibernate, Thymeleaf
 ```
-### 주요 개발건
+
+### 주요 개발건(나의 역할)
 - 로그인 / 회원가입 / 계정찾기
     - 로그인 (onchange 이벤트 발생할 때 마다 유효성 검사, submit 시 스프링 시큐리티 이용하여 loginSuccess, Faliure 구현)
     - 스프링 시큐리티로 권한마다 접근할 수 있는 페이지 설정
@@ -29,8 +30,6 @@ http://www.kream.co.kr
     - 스타일 계정 이미지, 이름, 계정 아이디 수정
     - 게시물 좋아요, 댓글 좋아요, 삭제, 대댓글 달기
     - 이미지 슬라이드(Swiper)
-### 프로젝트 기술서
-https://brick-booth-68a.notion.site/Kream-b4099274b5174bc5ab6a261a6d6a615f
 
 # 구동 화면
 ### 시연영상

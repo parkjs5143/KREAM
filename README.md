@@ -13,10 +13,10 @@ http://www.kream.co.kr
 
 ### 주요 개발건(나의 역할)
 - 로그인 / 회원가입 / 계정찾기
-    - 로그인 (onchange 이벤트 발생할 때 마다 유효성 검사, submit 시 스프링 시큐리티 이용하여 loginSuccess, Faliure 구현)
+    - 로그인 (input 이벤트 발생할 때 마다 유효성 검사, submit 시 스프링 시큐리티 이용하여 loginSuccess, Faliure 구현)
     - 스프링 시큐리티로 권한마다 접근할 수 있는 페이지 설정
     - 로그인 성공 시 사용자의 systemId값과 email값 세션 등록
-    - 회원가입 (onchange 이벤트 발생할 때 마다 유효성 검사, Password Encoder 사용하여 단방향 비밀번호 암호화 )
+    - 회원가입 (input 이벤트 발생할 때 마다 유효성 검사, Password Encoder 사용하여 단방향 비밀번호 암호화 )
     - 아이디 찾기 (서버 단에서 일부 아이디 *처리 후 프론트에 alert)
     - 비밀번호 찾기 (임시 비밀번호 생성 후 SMTP 사용하여 메일 발송)
 - 헤더
@@ -34,6 +34,9 @@ http://www.kream.co.kr
 # 구동 화면
 ### 시연영상
 https://youtu.be/quJpnHbCUFU
+
+### ERD
+![ERD1](https://user-images.githubusercontent.com/75155418/148678461-ab9cea87-8e25-4ce5-a6b4-9f7af6ca9174.png)
 
 ### 로그인 페이지
 ![login](https://user-images.githubusercontent.com/75155418/145078943-eb6f41cf-d1a5-4f07-9a1d-8f1ef8684c07.png)

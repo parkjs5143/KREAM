@@ -6,9 +6,9 @@ http://www.kream.co.kr
 1. 기간 : 2021.08.15 ~ 2021.10.15
 2. 환경 : Apache Tomcat v9.0 , Chrome 브라우저
 3. 주제 : 반응형 리셀 사이트 구축
-4. 개발 : IntelliJ, OracleDeveloper, Postman, 
+4. 개발툴 : IntelliJ, OracleDeveloper, Postman
 5. 사용 언어 : Java(Spring-boot v2.5), HTML5, CSS3, Javascript(ES6)
-6. 사용 기술 : axios, Ajax, Open API(다음카카오), SMTP(Mail Service), Cool SMS, Gradle, Spring Security5, JPA/Hibernate, Thymeleaf
+6. 사용 기술 : Gradle, Spring Security5, JPA/Hibernate, Thymeleaf, SMTP(Mail Service), Cool SMS, Ajax, Open API(다음카카오)
 ```
 
 ### 주요 개발건(나의 역할)
@@ -29,7 +29,7 @@ http://www.kream.co.kr
 - 스타일
     - 스타일 계정 이미지, 이름, 계정 아이디 수정
     - 게시물 좋아요, 댓글 좋아요, 삭제, 대댓글 달기
-    - 이미지 슬라이드(Swiper)
+    - 이미지 슬라이드(Swiper) API 활용
 
 # 구동 화면
 ### 시연영상

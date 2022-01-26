@@ -35,6 +35,8 @@ http://www.kream.co.kr
 ### 시연영상
 https://youtu.be/quJpnHbCUFU
 
+![video](https://github.com/jeongyoungbeom/KREAM/blob/main/image/%EB%8F%99%EC%98%81%EC%83%81.gif?raw=true)
+
 ### ERD
 ![ERD1](https://user-images.githubusercontent.com/75155418/148678461-ab9cea87-8e25-4ce5-a6b4-9f7af6ca9174.png)
 

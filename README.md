@@ -9,6 +9,7 @@ http://www.kream.co.kr
 4. 개발툴 : IntelliJ, OracleDeveloper, Postman
 5. 사용 언어 : Java(Spring-boot v2.5), HTML5, CSS3, Javascript(ES6)
 6. 사용 기술 : Gradle, Spring Security5, JPA/Hibernate, Thymeleaf, SMTP(Mail Service), Cool SMS, Ajax, Open API(다음카카오)
+7. 인원 : 6명 ( 나의 역할 : 프론트엔드 / 백엔드(일부), 기여도 20% )
 ```
 
 ### 주요 개발건(나의 역할)

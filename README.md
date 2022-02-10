@@ -92,13 +92,13 @@ https://youtu.be/quJpnHbCUFU
 <img width="1280" alt="style_info1" src="https://user-images.githubusercontent.com/75155418/145079726-e52654b0-585f-4527-a1cc-1f68b9155d61.png">
 
 ### 관리자 대시보드
-https://github.com/soyounjeong/KREAM/blob/main/img/admin.png
+![image](https://user-images.githubusercontent.com/75155418/153438291-c434ae47-998b-4efa-b74c-aba5dd8f2446.png)
 
 ### 관리자 상품 등록/수정
-https://github.com/soyounjeong/KREAM/blob/main/img/admin_order.png
+![image](https://user-images.githubusercontent.com/75155418/153438243-788d9373-e9c4-44f8-a02e-f5be310dc5df.png)
 
 ### 관리자 공지사항&이벤트 등록/수정/삭제
-https://github.com/soyounjeong/KREAM/blob/main/img/admin_notice.png
+![image](https://user-images.githubusercontent.com/75155418/153438206-bc866c36-da82-42b1-b772-f8237b0e1ee5.png)
 
 ### 관리자 회원관리(회원조회/블랙리스트 등록/관리자 권한부여/탈퇴회원 관리)
-https://github.com/soyounjeong/KREAM/blob/main/img/admin_member.png
+![image](https://user-images.githubusercontent.com/75155418/153438160-9a8dffa7-7a6b-489d-87fc-8fabe5057386.png)

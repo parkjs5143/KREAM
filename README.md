@@ -40,13 +40,13 @@ Kream 은 한정판 상품의 정가품 여부, 하자 및 퀄리티 등을 정�
     - 이미지 슬라이드(Swiper) API 활용
 
 # 구동 화면
-### 시연영상
-https://youtu.be/quJpnHbCUFU
-
-![video](https://github.com/jeongyoungbeom/KREAM/blob/main/image/%EB%8F%99%EC%98%81%EC%83%81.gif?raw=true)
 
 ### ERD
 ![ERD1](https://user-images.githubusercontent.com/75155418/148678461-ab9cea87-8e25-4ce5-a6b4-9f7af6ca9174.png)
+
+### 시연영상
+https://youtu.be/quJpnHbCUFU
+![video](https://github.com/jeongyoungbeom/KREAM/blob/main/image/%EB%8F%99%EC%98%81%EC%83%81.gif?raw=true)
 
 ### 로그인 페이지
 ![login](https://user-images.githubusercontent.com/75155418/145078943-eb6f41cf-d1a5-4f07-9a1d-8f1ef8684c07.png)

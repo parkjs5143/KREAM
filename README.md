@@ -57,26 +57,36 @@ https://youtu.be/quJpnHbCUFU
 ### 메인 페이지2
 ![main2](https://user-images.githubusercontent.com/75155418/145079033-48fc475b-64b5-43a1-b920-e4742a3dd2ef.png)
 
-### 마이페이지1
+### 마이페이지
+- 결제할 카드와 계좌, 주소를 등록할 수 있고 수정 · 삭제가 가능합니다.
+- 구매 내역, 판매 내역을 조회할 수 있습니다. 카테고리가 대분류, 중분류로 나뉘어진 SPA로 제작하였습니다.
+- 관심 상품 리스트를 조회/삭제할 수 있습니다.
 ![mypage](https://user-images.githubusercontent.com/75155418/145079167-71ddba85-5254-4e33-a3d8-0b6cfbf80dc5.png)
 
-### 마이페이지2
+### 마이페이지
+- 회원 정보 (이메일 주소, 비밀번호(기존 비밀번호 확인 후 변경), 이름, 휴대폰 번호, 사이즈, 광고 수신 동의 여부) 변경할 수 있습니다.
+- 회원 탈퇴 페이지 (탈퇴 시 기존 정보가 일부 삭제되고 탈퇴 테이블로 넘어갑니다.)
 ![mypage_edit](https://user-images.githubusercontent.com/75155418/145079198-9de6ddae-dff8-49be-97ad-01a0fd2f0a36.png)
 
 ### shop 카테고리, 검색 페이지
 ![shop](https://user-images.githubusercontent.com/75155418/145079314-1e016004-c37f-45cd-bcf4-9ead8358021d.png)
 
 ### shop 상품 디테일 페이지
+- 관리자가 상품의 이미지, 사이즈, 상세 정보를 등록하고 나면 판매를 원하는 사용자가 일정 가격에 판매를 등록하고, 구매를 원하는 사용자가 구매를 할 수 있습니다.
+- 판매, 구매 모두 원하는 가격에 거래할 수 있도록 미리 예약을 걸어 놓을 수 있는 입찰 시스템이 마련되어있습니다.
+- 따라서 구매자가 원하는 가격으로 입찰 구매를 등록 했을 경우 해당 가격으로 상품을 올리면 거래가 체결되고 자동으로 배송 테이블에 올라갑니다.
+- 만약, 등록한 기한 이후까지 거래가 체결되지 않으면 거래가 불가합니다.
 ![shop1](https://user-images.githubusercontent.com/75155418/145079356-7b963b39-8027-46e2-a73a-0554681b3298.png)
 
 ### shop 구매 페이지
 ![shop2](https://user-images.githubusercontent.com/75155418/145079484-41727d2c-eefb-45e9-92cc-942041f79a20.png)
 
 ### style 인기게시물
+- 사용자가 이미지를 여러 장 올릴 수 있고 shop에서 보여지는 상품과 인스타그램처럼 일반 해시태그를 태그할 수 있습니다.
 ![style](https://user-images.githubusercontent.com/75155418/145079568-ed3ce061-8321-43d6-9446-62d8c512f7e9.png)
 
 ### style 게시물 디테일
+- 게시물에 좋아요, 댓글 기능을 구현했습니다. 댓글은 3계층형으로 이루어져 있으며 댓글마다 삭제, 좋아요를 할 수 있습니다.
+- 계정 아이디와 이름, 소개, 이미지를 등록하고 수정할 수 있습니다.
 <img width="1280" alt="style_info2" src="https://user-images.githubusercontent.com/75155418/145079613-af79ff15-bfed-4a91-beee-dbee841e7475.png">
 <img width="1280" alt="style_info1" src="https://user-images.githubusercontent.com/75155418/145079726-e52654b0-585f-4527-a1cc-1f68b9155d61.png">
-
-

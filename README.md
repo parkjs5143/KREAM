@@ -39,15 +39,13 @@ Kream 은 한정판 상품의 정가품 여부, 하자 및 퀄리티 등을 정�
     - 게시물 좋아요, 댓글 좋아요, 삭제, 대댓글 달기
     - 이미지 슬라이드(Swiper) API 활용
 
-# 구동 화면
-
 ### ERD
 ![ERD1](https://user-images.githubusercontent.com/75155418/148678461-ab9cea87-8e25-4ce5-a6b4-9f7af6ca9174.png)
 
 ### 발표영상
 https://youtu.be/quJpnHbCUFU
 
-## 시연 영상
+### 시연 영상
 ![video](https://github.com/jeongyoungbeom/KREAM/blob/main/image/%EB%8F%99%EC%98%81%EC%83%81.gif?raw=true)
 
 ### 로그인 페이지

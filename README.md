@@ -3,7 +3,7 @@
 http://www.kream.co.kr
 
 ```
-1. 기간 : 2021.08.15 ~ 2021.10.15
+1. 기간 : 2021.09 ~ 2021.11
 2. 환경 : Apache Tomcat v9.0 , Chrome 브라우저
 3. 주제 : 반응형 리셀 사이트 구축
 4. 개발툴 : IntelliJ, OracleDeveloper, Postman

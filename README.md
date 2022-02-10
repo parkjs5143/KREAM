@@ -90,3 +90,15 @@ https://youtu.be/quJpnHbCUFU
 - 계정 아이디와 이름, 소개, 이미지를 등록하고 수정할 수 있습니다.
 <img width="1280" alt="style_info2" src="https://user-images.githubusercontent.com/75155418/145079613-af79ff15-bfed-4a91-beee-dbee841e7475.png">
 <img width="1280" alt="style_info1" src="https://user-images.githubusercontent.com/75155418/145079726-e52654b0-585f-4527-a1cc-1f68b9155d61.png">
+
+### 관리자 대시보드
+https://github.com/soyounjeong/KREAM/blob/main/img/admin.png
+
+### 관리자 상품 등록/수정
+https://github.com/soyounjeong/KREAM/blob/main/img/admin_order.png
+
+### 관리자 공지사항&이벤트 등록/수정/삭제
+https://github.com/soyounjeong/KREAM/blob/main/img/admin_notice.png
+
+### 관리자 회원관리(회원조회/블랙리스트 등록/관리자 권한부여/탈퇴회원 관리)
+https://github.com/soyounjeong/KREAM/blob/main/img/admin_member.png

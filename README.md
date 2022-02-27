@@ -3,12 +3,12 @@
 http://www.kream.co.kr
 
 ```
-1. 기간 : 2021.09 ~ 2021.11
+1. 기간 :  2021.07 ~ 2021.10
 2. 환경 : Apache Tomcat v9.0 , Chrome 브라우저
 3. 주제 : 반응형 리셀 사이트 구축
 4. 개발툴 : IntelliJ, OracleDeveloper, Postman
 5. 사용 언어 : Java(Spring-boot v2.5), HTML5, CSS3, Javascript(ES6)
-6. 사용 기술 : Gradle, Spring Security5, JPA/Hibernate, Thymeleaf, SMTP(Mail Service), Cool SMS, Ajax, Open API(다음카카오)
+6. 사용 기술 : Gradle, Spring Security5, JPA/Hibernate, Thymeleaf, SMTP(Mail API), Cool SMS, Ajax, Open API(다음카카오)
 7. 인원 : 프론트엔드 - 진서영, 김미정, 이재성, 소윤정, 박정순(나) / 백엔드 - 정영범
 ```
 
@@ -20,11 +20,11 @@ Kream 은 한정판 상품의 정가품 여부, 하자 및 퀄리티 등을 정�
 
 ### 나의 역할 ( 기여도 20% )
 - 로그인 / 회원가입 / 계정찾기
-    - 로그인 (input 이벤트 발생할 때 마다 유효성 검사, submit 시 스프링 시큐리티 이용하여 loginSuccess, Faliure 구현)
-    - 스프링 시큐리티로 권한마다 접근할 수 있는 페이지 설정, 사용자 인증,권한 부여
-    - 회원가입 (input 이벤트 발생할 때 마다 유효성 검사, Password Encoder 사용하여 단방향 비밀번호 암호화 )
+    - 로그인 (input 이벤트 발생할 때 마다 유효성 검사, submit 시 스프링 시큐리티 이용하여 LoginSuccess, Faliure 구현)
+    - 스프링 시큐리티로 권한마다 접근할 수 있는 페이지 설정, 사용자 인증, 권한 부여
+    - 회원가입 (input 이벤트 발생할 때 마다 유효성 검사, Password Encoder 사용하여 단방향 비밀번호 암호화)
     - 아이디 찾기 (서버 단에서 일부 아이디 *처리 후 프론트에 alert)
-    - 비밀번호 찾기 (임시 비밀번호 생성 후 SMTP 사용하여 메일 발송)
+    - 비밀번호 찾기 (임시 비밀번호 생성 후 MailAPI사용하여 메일 발송)
 - 헤더
     - 상품 검색 기능 구현, localStorage로 최근 검색어 구현
 - 마이페이지

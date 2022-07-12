@@ -8,7 +8,7 @@ http://www.kream.co.kr
 3. 주제 : 반응형 리셀 사이트 구축
 4. 개발툴 : IntelliJ, OracleDeveloper, Postman
 5. 사용 언어 : Java(Spring-boot v2.5), HTML5, CSS3, Javascript(ES6)
-6. 사용 기술 : Gradle, Spring Security, JPA/Hibernate, Thymeleaf, SMTP(Mail API), Cool SMS, Ajax, Open API(다음카카오)
+6. 사용 기술 : Spring Security, JPA/Hibernate, Thymeleaf, SMTP(Mail API), Cool SMS, Ajax, Open API(다음카카오)
 7. 인원 : 프론트엔드 - 진서영, 김미정, 이재성, 소윤정, 박정순(나) / 백엔드 - 정영범
 ```
  

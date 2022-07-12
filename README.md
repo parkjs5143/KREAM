@@ -1,5 +1,5 @@
 # KREAM
-### Kream 반응형 리셀 사이트 구축 (Spring-boot, RESTful API)
+### Kream 반응형 리셀 사이트 구축 (Spring-boot, Spring Security)
 http://www.kream.co.kr
 
 ```
@@ -8,7 +8,7 @@ http://www.kream.co.kr
 3. 주제 : 반응형 리셀 사이트 구축
 4. 개발툴 : IntelliJ, OracleDeveloper, Postman
 5. 사용 언어 : Java(Spring-boot v2.5), HTML5, CSS3, Javascript(ES6)
-6. 사용 기술 : Gradle, Spring Security5, JPA/Hibernate, Thymeleaf, SMTP(Mail API), Cool SMS, Ajax, Open API(다음카카오)
+6. 사용 기술 : Gradle, Spring Security, JPA/Hibernate, Thymeleaf, SMTP(Mail API), Cool SMS, Ajax, Open API(다음카카오)
 7. 인원 : 프론트엔드 - 진서영, 김미정, 이재성, 소윤정, 박정순(나) / 백엔드 - 정영범
 ```
  
@@ -35,7 +35,7 @@ Kream 은 한정판 상품의 정가품 여부, 하자 및 퀄리티 등을 정�
 - 샵
     - 상품 구매 시 주소, 카드 선택하는 페이지
 - 스타일 : 소셜 플랫폼 기능입니다. shop 에서 보여지는 상품들을 태그하여 사진을 포함한 게시물을 올릴 수 있습니다.
-    - 스타일 계정 이미지, 이름, 계정 아이디 수정
+    - mutipart 이용한 프로필 수정
     - 게시물 좋아요, 댓글 좋아요, 삭제, 대댓글 달기
     - 이미지 슬라이드(Swiper) API 활용
 
